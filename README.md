@@ -1,4 +1,4 @@
-![Header}(https://raw/githubusercontent.com/Porksilog/Porksilog/master/banner.png)
+![Header](https://raw/githubusercontent.com/Porksilog/Porksilog/master/banner.png)
 
 ## 🌐 Socials:
 <div align="left">
