@@ -25,10 +25,6 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
----
 [![](https://visitcount.itsvg.in/api?id=Porksilog&icon=2&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
