@@ -1,4 +1,8 @@
-![Header](https://raw/githubusercontent.com/Porksilog/Porksilog/master/banner.png)
+<div align="center">
+  <a href="https://www.canva.com/design/DAGBIVN0N7M/1tE8LJ8uebCanUBv60TYmw/edit?utm_content=DAGBIVN0N7M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+    <img src="https://github.com/a-crinkles/profile-readme-generator/assets/165613303/bd20656c-8118-4329-8576-44cc82f8af67" alt="Banner">
+  </a>
+</div>
 
 ## 🌐 Socials:
 <div align="left">
