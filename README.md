@@ -1,4 +1,8 @@
-<h1 align="left">Hi 👋! My name is Porksilog and I'm a stoopid hooman, from m. santos</h1>
+<div align="center">
+  <a href="https://www.canva.com/design/DAGBInBRqDQ/KKwDTZXKZGnyC5vDvzu87Q/edit?utm_content=DAGBInBRqDQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
+    <img src="https://github.com/Porksilog/profile-readme-generator/assets/165613303/bd20656c-8118-4329-8576-44cc82f8af67" alt="Banner">
+  </a>
+</div>
 
 ## 🌐 Socials:
 <div align="left">
