@@ -1,3 +1,4 @@
+<h1 align="left">Hi 👋! My name is Porksilog and I'm a stoopid hooman, from m. santos</h1>
 
 ## 🌐 Socials:
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/21285033/porksilog) 
